@@ -25,15 +25,15 @@ h1 {
 
 h2{
     font-family:sans-serif;
-    font-size: 250%;
-    position: relative;
-    left: 400px;
+    font-size: 150%;
+   
+    
 }
 
 h3{
     font-family: sans-serif;
-    position: relative;
-    left: 250px;
+    position: ;
+    ;
 }
 
 .menu-title{
@@ -53,7 +53,7 @@ h3{
 
 .address{
    position: relative;
-   bottom: 30px;
+   bottom: 300px;
 }
 
 
