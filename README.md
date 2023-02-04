@@ -79,3 +79,5 @@
      ### W3C Markup Validor and W3C CSS Validator
       The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to enusre there were no sytax errors. 
 
+    ## Credits
+     

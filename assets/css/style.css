@@ -14,8 +14,8 @@ background-color: #f5f5f5;
 
 /*----Headings---*/
 h1 {
-    color:#c43e00;
-    font-family: sans-serif ;
+    color:#f9a825;
+    font-family:"Roboto" , sans-serif  ;
     text-transform: uppercase;
     text-align: center;
     background-color: #000000;
@@ -34,6 +34,15 @@ h3{
     font-family: sans-serif;
     position: relative;
     left: 250px;
+}
+
+.menu-title{
+   font-family: sans-serif;
+   position: relative;
+   left: 20px;
+   font-size: 200%;
+   text-transform: uppercase;
+ 
 }
 
 /*-------section---*/
@@ -71,6 +80,7 @@ h3{
     width: 60%;
     
  }
+
 
  /*----Footer--*/
 
