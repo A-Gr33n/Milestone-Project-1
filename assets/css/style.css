@@ -51,6 +51,10 @@ h3{
     font-size: 120%;
 }
 
+.address{
+   position: relative;
+   bottom: 30px;
+}
 
 
 /*------NavBar---*/
@@ -79,6 +83,19 @@ h3{
     padding: 40px;
     width: 60%;
     
+ }
+
+ .picRight{
+  position:relative ;
+  left: 900px;
+  bottom: 100px;
+ }
+
+ .mapPic{
+   position: absolute;
+   left: 300px;
+   bottom: 30px;
+   height: 20%;
  }
 
 
