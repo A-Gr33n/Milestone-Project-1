@@ -86,7 +86,9 @@ h3{
     
  }
 
- 
+ .fa-solid{
+   color: #f9a825;
+ }
 /*-----Contact Form----*/
 .contact{
    font-size: 200%;
@@ -104,6 +106,8 @@ h3{
    padding:30px;
 
 }
+
+
 
 
  /*----Footer--*/
