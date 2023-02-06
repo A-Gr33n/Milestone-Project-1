@@ -78,24 +78,18 @@ h3{
     box-sizing:border-box;
  }
 
- .container 2 {
-    display:flex;
-    justify-content:space-between;
-    padding: 40px;
-    width: 60%;
-    
- }
+ 
 
- .fa-solid{
-   color: #f9a825;
- }
+ 
 
  .card-img-top{
    width: 100%;
    height: 15vw;
    object-fit: cover;
  }
-
+  .card-text{
+  font-family: arial;
+  }
 /*-----Contact Form----*/
 .contact{
    font-size: 200%;
