@@ -6,7 +6,7 @@
 ## Description
 <p>This is a restaurant website which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts the resturant has and a contact page for the user to put their details in to book a table how many will be attending. Also displays the opening hours and social links which can be found at the bottom.  <p>
 
-
+----
 ## User Experience (UX)  
  *  ### Business Goals
   1.   To increase revenue and profitability
@@ -23,7 +23,7 @@
   1. To ensure the location of the restaurant is accessiable for parking so it'll be easier for those who will be travelling my car 
   1. To make the website as clear as possible for customers to access what they want to look for
 
-  
+  ----
   ## Design
    * Colour Scheme
       * The two main colours used for the website application are Black and White
@@ -31,19 +31,23 @@
       * The fonts used for are Roboto font which is used for the entire website followed with San Serif as a backup. 
     * Imagery 
        * The user will get to feel what it would be like experincing the resturant and what the atomsphere would be like by visualing the images of the website    
-  
+    ----
   ## Wireframes
     * Home Page Wireframe
     
-    * Mobile Wireframe 
+    * Menu Page Wireframe 
 
     * Contact Us Page Wireframe
 
+    * Moblie Wifeframe 
+
+    * Tablet Wireframe
+     ----
     ## Features 
      * Responsive on all device sizes. 
      
      * Interactive elements
-     
+     ----
      ## Technologies Used 
      
      ### Languages Used
@@ -51,7 +55,7 @@
      * HTML5
 
      * CSS3
-
+     ------
      ## Frameworks
      
      1. Boostrap V5.3:
@@ -74,10 +78,26 @@
         * Material Design is used to access the level of color combination to make the website as nice and presentable for the user
     1. Balsamiq:
        * Balsamiq was used to create the wireframes as a blueprint to design this website    
-
+     -----
     ## Testing
      ### W3C Markup Validor and W3C CSS Validator
       The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to enusre there were no sytax errors. 
-
+     ------
     ## Credits
-     
+    
+   ### Code
+   Bootstrap v5.3.0:
+    * Bootstrap v5.3.0-alpha1 was mainly used to structure this website. It was needed to make the site responsive using the Bootstrap Grid System. The Bootstrap card codes was used to put images and text to group them row by row. 
+
+    Google Fonts :
+    * Google Fonts provided the text that was needed to build the website.
+
+    ### Media
+   Images:
+    1. Home Page :   
+    * The first image at the top from home page was provided by  crestaurant.co.uk 
+    * The image on the bottom left that shows burgers and chips meal was provided by https://www.hellofresh.co.uk/recipes/peri-peri-chicken-burger-and-chips-628b45faaab04074d30ff0b7 
+    * The image on the bottom right is provide by https://www.puttshack.com/uk/food-and-drink
+
+   2. Menu Page:The starter section is 
+
