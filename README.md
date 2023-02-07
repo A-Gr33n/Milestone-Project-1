@@ -86,18 +86,35 @@
     ## Credits
     
    ### Code
+      /* credit: code for making images all equal height for menu page taken from https://stackoverflow.com/questions/52871316/how-to-make-bootstraps-card-img-top-equal-height-at-responsive-widths and edited slightly to fit project needs */
+    
+     .card-img-top {
+      <p> width: 100%; </p>
+      <p> height: 15vw; </p>
+      object-fit: cover;
+      }
+
+
+
    Bootstrap v5.3.0:
-    * Bootstrap v5.3.0-alpha1 was mainly used to structure this website. It was needed to make the site responsive using the Bootstrap Grid System. The Bootstrap card codes was used to put images and text to group them row by row. 
+    * Bootstrap v5.3.0-alpha1 was mostly used to create the html structure for this website. It was needed to make the site responsive using the Bootstrap Grid System. The Bootstrap card codes was used to put images and text to group them row by row. 
 
     Google Fonts :
     * Google Fonts provided the text that was needed to build the website.
 
+
+
     ### Media
    Images:
     1. Home Page :   
-    * The first image at the top from home page was provided by  crestaurant.co.uk 
-    * The image on the bottom left that shows burgers and chips meal was provided by https://www.hellofresh.co.uk/recipes/peri-peri-chicken-burger-and-chips-628b45faaab04074d30ff0b7 
-    * The image on the bottom right is provide by https://www.puttshack.com/uk/food-and-drink
+     
+       All images from the home page are provided by https://pxhere.com/ these images give a feel of what the resturant would be like for the user if they were to visit. 
 
-   2. Menu Page:The starter section is 
+    1. Menu Page : 
+    
+       Images from menu page were referenced from  https://pxhere.com/ and https://www.pexels.com/. Each image shows the user the menu order and what they can order when they are visiting.
+
+    1. Contact Page:
+
+       On the contact page there is only one image which is sourced from https://www.pexels.com/ which shows a waiter holding two dinner plates. This gives the user the type of customer service the business provides when they book a table.   
 
