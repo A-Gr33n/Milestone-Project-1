@@ -8,6 +8,27 @@
 
 ----
 ## User Experience (UX)  
+ * ### User stories
+   
+   * #### First Time Vistor Goals
+    a. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu.  
+
+    b. As a First Time Vistor I want to make a resrvation for a specific date and time. I should be quickly notified about reservations quickly and easily.
+
+    c. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
+    * #### Returning Visitor
+    a. As a Returning vistor, I want to find out if there is anything new on the menu that the restaurant will have. 
+
+    b. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
+
+    c. As a Returning Vistor, I want my details to be saved when I book a reservation so it will be a much faster process.
+
+    * #### Frequent User Goals
+     a. As a Frequent User, I want to check to see any updates and any speical features the website will have. 
+
+     b. As a Frequent User, I want to check if theres any new information that the business may have
+
+      
  *  ### Business Goals
   1.   To increase revenue and profitability
   1.   To franchise the business in other locations
@@ -81,7 +102,20 @@
      -----
     ## Testing
      ### W3C Markup Validor and W3C CSS Validator
-      The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to enusre there were no sytax errors. 
+      The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. Here are screenshots of what I had to do to clear them. 
+
+     ### Testing client stories from UX section of README.md 
+     * #### First Time Vistor Goals 
+       i. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
+          1. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.
+   
+         2. The website loading time process was tested on lighthouse and its perfomance is above 90%.      
+        
+       ii. As a First Time Vistor I want to make a resrvation for a specific date and time. I should be quickly notified about reservations quickly and easily.
+       
+    
+       iii. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
+    
      ------
     ## Credits
     
