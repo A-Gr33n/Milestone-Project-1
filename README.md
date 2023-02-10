@@ -16,7 +16,7 @@
     b. As a First Time Vistor I want to make a resrvation for a specific date and time. I should be quickly notified about reservations quickly and easily.
 
     c. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
-    * #### Returning Visitor
+    * #### Returning Visitor Goals
     a. As a Returning vistor, I want to find out if there is anything new on the menu that the restaurant will have. 
 
     b. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
@@ -107,15 +107,35 @@
      ### Testing client stories from UX section of README.md 
      * #### First Time Vistor Goals 
        i. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
-          1. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.
-   
-         2. The website loading time process was tested on lighthouse and its perfomance is above 90%.      
-        
-       ii. As a First Time Vistor I want to make a resrvation for a specific date and time. I should be quickly notified about reservations quickly and easily.
+          
+          1. The website loading time process was tested on lighthouse and other testing site and its perfomance shown to be above 90%. 
+
+          1. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
+         
+         1. There is also a navigation menu popup bar on mobile and tablet devices 
+
+    
+       ii. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
+         
+          1. At the bottom of each website page the user can find the opening times. 
+         
+         1. The location is placed in the contact page
+
+         1. The user can click on contact link on the navbar and it will direct them on the contact page. 
+
+          
+            
+         
+
+          
+    * #### Returning Visitor
        
-    
-       iii. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
-    
+       i. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
+
+        1. On the navigation bar there is a contact page, the user can find a textarea located at the bottom of the page where the user can type any queries. 
+
+
+      ii. As a Returning Vistor, I want my details to be saved when I book a reservation so it will be a much faster process.  
      ------
     ## Credits
     
