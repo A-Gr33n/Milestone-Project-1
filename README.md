@@ -10,23 +10,16 @@
 ## User Experience (UX)  
  * ### User stories
    
-   * #### First Time Vistor Goals
-    a. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu.  
+ 1. As a new vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu.  
 
-    b. As a First Time Vistor I want to make a resrvation for a specific date and time. I should be quickly notified about reservations quickly and easily.
 
-    c. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
-    * #### Returning Visitor Goals
-    a. As a Returning vistor, I want to find out if there is anything new on the menu that the restaurant will have. 
+1. As a new visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
+    
+1. As a returning vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
 
-    b. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
+1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget     
 
-    c. As a Returning Vistor, I want my details to be saved when I book a reservation so it will be a much faster process.
 
-    * #### Frequent User Goals
-     a. As a Frequent User, I want to check to see any updates and any speical features the website will have. 
-
-     b. As a Frequent User, I want to check if theres any new information that the business may have
 
       
  *  ### Business Goals
@@ -100,42 +93,52 @@
     1. Balsamiq:
        * Balsamiq was used to create the wireframes as a blueprint to design this website    
      -----
+    
+    
+    
     ## Testing
      ### W3C Markup Validor and W3C CSS Validator
       The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. Here are screenshots of what I had to do to clear them. 
 
      ### Testing client stories from UX section of README.md 
      * #### First Time Vistor Goals 
-       i. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
+      1. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
           
-          1. The website loading time process was tested on lighthouse and other testing site and its perfomance shown to be above 90%. 
+          i. The website loading time process was tested on lighthouse and other testing site and its perfomance shown to be above 90%. 
 
-          1. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
+          ii. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
          
-         1. There is also a navigation menu popup bar on mobile and tablet devices 
+          iii. There is also a navigation menu popup bar on mobile and tablet devices 
+      
+        
+      2. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
+         
+          i. At the bottom of each website page the user can find the opening times. 
+         
+         ii. The location is placed in the contact page
 
-    
-       ii. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
-         
-          1. At the bottom of each website page the user can find the opening times. 
-         
-         1. The location is placed in the contact page
+         iii. The user can click on contact link on the navbar and it will direct them on the contact page. 
+        
+        
+      3. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
 
-         1. The user can click on contact link on the navbar and it will direct them on the contact page. 
+         i. On the navigation bar there is a contact page, the user can find a textarea located at the bottom of the page where the user can type any queries once.
+
+         ii. There is a submit button underneath the textarea once the user has finished writing the message.  
+          
+      4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
+
+        i. On the menu page products are clearly listed for the user to see and has images next to price description to it more clear.    
+    ----
+   ## Deployment 
+
 
           
-            
+   
+
+
+     
          
-
-          
-    * #### Returning Visitor
-       
-       i. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
-
-        1. On the navigation bar there is a contact page, the user can find a textarea located at the bottom of the page where the user can type any queries. 
-
-
-      ii. As a Returning Vistor, I want my details to be saved when I book a reservation so it will be a much faster process.  
      ------
     ## Credits
     
