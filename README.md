@@ -98,7 +98,8 @@
     
     ## Testing
      ### W3C Markup Validor and W3C CSS Validator
-      The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. Here are screenshots of what I had to do to clear them. 
+      The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. 
+      
 
      ### Testing client stories from UX section of README.md 
      * #### First Time Vistor Goals 
@@ -131,13 +132,34 @@
         i. On the menu page products are clearly listed for the user to see and has images next to price description to it more clear.    
     ----
    ## Deployment 
+     This project was developed using Gitpod a cloud-based editor linked to the Microsoft VS Code. Files and Folders are committed to git and pushed to GitHub. 
+
+     To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken.
+
+     1. Log into GitHub.
+     2. From the list of repositories on the left side of the screen, select A-Gr33n/Milestone-Project-1
+     3. From the menu items near the top of the page, select Settings
+     4. On the code and automation section on the left side of the screen select pages
+     5. Under "Build and deployment", under "Source", select Deploy from a branch
+     6. Under "Build and deployment" , under "Branch", click the dropdown called "None" and select "Main"   
+     7. Next to the main dropdown on the right click on dropdown "(root)" and select "(docs)"
+
+    ### How to Clone this project 
+   To clone this project from GitHub:
+    1. Select A-Gr33n/Milestone-Project-1 from the list of repositories
+    1. From the menu items near the top of the page select <>code from  dropdown menu 
+    1. In the clone with HTTP's secion, copy the clone URL for the repository.
+    1. Open Git Bash
+    1. Change the current working directory to the location where you want the cloned directory.
+    1. Type git clone, and then paste the URL you copied earlier next to it
+       
+       $ git clone https://github.com//A-Gr33n-milestone-1 
+           
+    1. Press "Enter" to create your local clone
+        
+       
 
 
-          
-   
-
-
-     
          
      ------
     ## Credits
