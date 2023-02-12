@@ -125,6 +125,8 @@
      ## Testing
      ### W3C Markup Validor and W3C CSS Validator
    The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors.There are screenshots in Images folder used for evidence to show solved errors. 
+    
+     
 
      ### Lighthouse
      Lighthouse was used in chrome dev tools to check the performance, best practices and accessibility. Screenshots are documented in the images folder showing the websites' progress. 
@@ -139,7 +141,7 @@
 
           ii. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
          
-          iii. There is also a navigation menu popup bar on mobile and tablet devices 
+          
       
         
       2. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
