@@ -4,7 +4,7 @@
 ### By Aaron Green
 
 ## Description
-<p>This is a restaurant website which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts the resturant has and a contact page for the user to put their details in to book a table how many will be attending. Also displays the opening hours and social links which can be found at the bottom.  <p>
+<p>This is website is based on restaurant which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts the resturant has and a contact page for the user to put their details in to book a table how many will be attending. Also displays the opening hours and social links which can be found at the bottom.  <p>
 
 ----
 ## User Experience (UX)  
@@ -160,10 +160,7 @@
       4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
 
         i. On the menu page products are clearly listed for the user to see and has images next to price description to it more cl  
-
-
-         
-     ------
+     
     ## Credits
     
    ### Code
