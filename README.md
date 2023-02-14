@@ -47,15 +47,20 @@
        * The user will get to feel what it would be like experincing the resturant and what the atomsphere would be like by visualing the images of the website    
     ----
   ## Wireframes
-    * Home Page Wireframe
+    * Home Page Wireframe [Restaurant Project Milestone 1 (Home Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734473/Restaurant.Project.Milestone.1.Home.Page.pdf)
+
     
-    * Menu Page Wireframe 
+    * Menu Page Wireframe [Restaurant Project Milestone 1 (Menu Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734478/Restaurant.Project.Milestone.1.Menu.Page.pdf)
 
-    * Contact Us Page Wireframe
 
-    * Moblie Wifeframe 
+    * Contact Us Page Wireframe [Restaurant Project Milestone 1 (Contact Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734433/Restaurant.Project.Milestone.1.Contact.Page.pdf)
 
-    * Tablet Wireframe
+
+    * Moblie Wifeframe [Restaurant Project Milestone 1 (Mobile Wireframe).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734481/Restaurant.Project.Milestone.1.Mobile.Wireframe.pdf)
+
+
+    * Tablet Wireframe[Restaurant Project Milestone 1 (Tablet Wireframe).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734485/Restaurant.Project.Milestone.1.Tablet.Wireframe.pdf)
+
      ----
     ## Features 
      * Responsive on all device sizes. 
