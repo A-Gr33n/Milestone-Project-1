@@ -4,7 +4,7 @@
 ### By Aaron Green
 
 ## Description
-<p>This is website is based on restaurant which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts the resturant has and a contact page for the user to put their details in to book a table how many will be attending. Also displays the opening hours and social links which can be found at the bottom.  <p>
+<p>This is website is based on restaurant which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts aand the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom.  <p>
 
 ----
 ## User Experience (UX)  
@@ -92,7 +92,7 @@
         * Material Design is used to access the level of color combination to make the website as nice and presentable for the user
     1. Balsamiq:
        * Balsamiq was used to create the wireframes as a blueprint to design this website    
-     -----
+     
     
     
     ----
@@ -121,7 +121,7 @@
        $ git clone https://github.com//A-Gr33n-milestone-1 
            
     1. Press "Enter" to create your local clone
-        
+     ---   
      ## Testing
      ### W3C Markup Validor and W3C CSS Validator
    The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors.There are screenshots in Images folder used for evidence to show solved errors. 
@@ -129,7 +129,36 @@
      
 
      ### Lighthouse
-     Lighthouse was used in chrome dev tools to check the performance, best practices and accessibility. Screenshots are documented in the images folder showing the websites' progress. 
+     Lighthouse was used in chrome dev tools to check the Performance, Best Practices and Accessibility. Screenshots are documented in the images folder showing the websites' progress. 
+     <p> Testing each attribute there were errors that needed to be solved.
+     
+     #### Perfomance
+   * Images where not properly sized,
+    <p> solution: Images were compressed in TinyPNG
+   
+   * Images were serve in next-gen formats, 
+     <p> solution: Images were compressed in TinyPNG
+   * render- blocking needed to be eliminated, 
+     <p> solution: Script element was in the body element which needed to be 
+     in head element.
+   * preconnect was required 
+     <p> solution: Preconnect link was put in head element
+   * images need to be efficiently encoded. 
+     <p> solution: Images were optimized by TinyPng 
+    
+   #### Asccessibilty   
+     
+  * links did not have a discernible name. (Did not link text for social links)
+      <p> solution: All social links are now linked to there page. 
+  * the heading elements were not in a sequentially-descending order.
+      <p> solution: Changed heading size in footer to follow logical order.
+  
+  #### Best Practices  
+  *   Diplays images with incorrect aspect ratio  
+      <p> solution: Changed image size in CSS which and changed the image's width and height attributes in the HTML. 
+   
+
+
       
       
 
@@ -162,7 +191,7 @@
       4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
 
         i. On the menu page products are clearly listed for the user to see and has images next to price description to it more cl  
-     
+     ---
     ## Credits
     
    ### Code
