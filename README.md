@@ -4,7 +4,7 @@
 ### By Aaron Green
 
 ## Description
-<p>This is website is based on restaurant which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts aand the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom.  <p>
+<p>Supreme Feast is a website based on a restaurant located in Sydenham, London which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts aand the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom.  <p>
 
 ----
 ## User Experience (UX)  
