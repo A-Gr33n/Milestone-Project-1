@@ -143,8 +143,7 @@
    * render- blocking needed to be eliminated, 
      <p> solution: Script element was in the body element which needed to be 
      in head element.
-   * preconnect was required 
-     <p> solution: Preconnect link was put in head element
+   
    * images need to be efficiently encoded. 
      <p> solution: Images were optimized by TinyPng 
     
