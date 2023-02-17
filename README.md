@@ -195,22 +195,34 @@
     ## Credits
     
    ### Code
-      /* credit: code for making images all equal height for menu page taken from https://stackoverflow.com/questions/52871316/how-to-make-bootstraps-card-img-top-equal-height-at-responsive-widths and edited slightly to fit project needs */
+      /* credit: code for making images all equal height for menu page taken from https://stackoverflow.com/questions/52871316/how-to-make-bootstraps-card-img-top-equal-height-at-responsive-widths*/and edited slightly to fit project needs 
     
      .card-img-top {
       <p> width: 100%; </p>
       <p> height: 15vw; </p>
       object-fit: cover;
       }
-
-
+    
+     /*credit:code for making image from contact page positioned to center of page taken from https://www.w3schools.com/css/css_positioning.asp/ */ 
+ <p>.img-fluid-contact{
+ <p> max-height:300px ; 
+ <p>  width:500px;
+ <p> margin: auto;
+ <p> padding: 10px;
+ <p> position: relative;
+ <p> left: 5px;
+}
+     
 
    Bootstrap v5.3.0:
+    
     * Bootstrap v5.3.0-alpha1 was mostly used to create the html structure for this website. It was needed to make the site responsive using the Bootstrap Grid System. The Bootstrap card codes was used to put images and text to group them row by row. 
 
     Google Fonts :
     * Google Fonts provided the text that was needed to build the website.
-
+    
+    W3Schools
+    * W3Schools was used for a fundemental support to carry out this project. 
 
 
     ### Media
