@@ -138,14 +138,13 @@
      
      #### Perfomance
    * Images where not properly sized,
-    <p>solution: Images are reduced by size to met the perfomance standard and to be compatiable on mobile screens
+    <p>solution: Images are reduced by size in Style.CSS to met the perfomance standard and to be compatiable on mobile screens. 
     
    * render- blocking needed to be eliminated, 
      <p> solution: Script element was in the body element which needed to be 
      in head element.
    
-   * images need to be efficiently encoded. 
-     <p> solution: Images were optimized by TinyPng 
+   
     
    #### Asccessibilty   
      

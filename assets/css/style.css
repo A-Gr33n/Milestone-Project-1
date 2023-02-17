@@ -81,8 +81,13 @@ h3{
   .card-text{
   font-family: arial;
   }
+.img-thumbnail-main{
+   height:200px;
+   width:250px;
+}
 
- 
+
+
 /*-----Contact Form----*/
 .contact{
    font-size: 200%;
@@ -95,7 +100,7 @@ h3{
 
 .btn{
    position: relative;
-   left: 130px;
+   left: 170px;
    padding:30px;
   }
 
@@ -103,7 +108,14 @@ h3{
    height: 100%  ;
  }
 
- 
+ .img-fluid-contact{
+  max-height:300px ; 
+   width:500px;
+   margin: auto;
+   padding: 10px;
+   position: relative;
+   left: 5px;
+}
 
 
  /*----Footer--*/
