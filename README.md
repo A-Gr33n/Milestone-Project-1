@@ -4,7 +4,7 @@
 ### By Aaron Green
 
 ## Description
-<p>Supreme Feast is a website based on a restaurant located in Sydenham, London which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts aand the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom.  <p>
+<p>Supreme Feast is a website based on a newly built restaurant located in Sydenham, London which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts aand the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom.  <p>
 
 ----
 ## User Experience (UX)  
@@ -91,8 +91,7 @@
 
      1. GitHub:
          * GitHub is used to store the projects code after being pushed from Git
-     1. Tinypng:
-         * TinyPNG is used to support image format and it compress images and makes it more clear and has the ability to load faster when opening the website
+     
      1. Material Design:
         * Material Design is used to access the level of color combination to make the website as nice and presentable for the user
     1. Balsamiq:
@@ -129,7 +128,7 @@
      ---   
      ## Testing
      ### W3C Markup Validor and W3C CSS Validator
-   The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors.There are screenshots in Images folder used for evidence to show solved errors. 
+   The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. Screenshots are presented below for evidence to show solved errors. 
     
      
 
@@ -139,10 +138,8 @@
      
      #### Perfomance
    * Images where not properly sized,
-    <p> solution: Images were compressed in TinyPNG
-   
-   * Images were serve in next-gen formats, 
-     <p> solution: Images were compressed in TinyPNG
+    <p>solution: Images are reduced by size to met the perfomance standard and to be compatiable on mobile screens
+    
    * render- blocking needed to be eliminated, 
      <p> solution: Script element was in the body element which needed to be 
      in head element.
