@@ -17,7 +17,7 @@
     
 1. As a returning vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
 
-1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget     
+1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.     
 
 
 
@@ -129,11 +129,19 @@
      ## Testing
      ### W3C Markup Validor and W3C CSS Validator
    The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. Screenshots are presented below for evidence to show solved errors. 
-    
+       
+  [view (Home page)](https://user-images.githubusercontent.com/120597058/220194957-aa918731-5631-4b8a-97cd-129bb876cff0.PNG)
+
+  [view (menu page)](https://user-images.githubusercontent.com/120597058/220192758-514e66e9-3179-49a9-98e9-dd4f80254c4c.PNG)
+     
+  [view (contact page)](https://user-images.githubusercontent.com/120597058/220195696-50071427-9bd0-4029-afdc-2c9adb1f2d03.PNG)
+
+  [view (CSS validator)](https://user-images.githubusercontent.com/120597058/220194541-d97df75b-4e62-4d4c-a0e6-0bd300e11e9f.PNG)
+
      
 
      ### Lighthouse
-     Lighthouse was used in chrome dev tools to check the Performance, Best Practices and Accessibility. Screenshots are documented in the images folder showing the websites' progress. 
+     Lighthouse was used in chrome dev tools to check the Performance, Best Practices and Accessibility. 
      <p> Testing each attribute there were errors that needed to be solved.
      
      #### Perfomance
