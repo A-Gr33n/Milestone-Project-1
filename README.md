@@ -17,7 +17,11 @@
     
 1. As a returning vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
 
+<<<<<<< HEAD
 1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.     
+=======
+1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.    
+>>>>>>> 6063d6e (Inital commit)
 
 
 
@@ -237,13 +241,13 @@
    Images:
     1. Home Page :   
      
-       All images from the home page are provided by https://pxhere.com/ these images give a feel of what the resturant would be like for the user if they were to visit. 
+       All images from the home page are provided by https://www.images.pexels.com/ these images give a feel of what the resturant would be like for the user if they were to visit. 
 
     1. Menu Page : 
     
-       Images from menu page were referenced from  https://pxhere.com/ and https://www.pexels.com/. Each image shows the user the menu order and what they can order when they are visiting.
+       Images from menu page were referenced from https://www.images.pexels.com/ and https://c.pxhere.com/. Each image shows the user the menu order and what they can order when they are visiting.
 
     1. Contact Page:
 
-       On the contact page there is only one image which is sourced from https://www.pexels.com/ which shows a waiter holding two dinner plates. This gives the user the type of customer service the business provides when they book a table.   
+       On the contact page there is only one image which is sourced from https://www.images.pexels.com/ which shows a waiter holding two dinner plates. This gives the user the type of customer service the business provides when they book a table.   
 
