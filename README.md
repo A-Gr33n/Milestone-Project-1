@@ -178,7 +178,10 @@
      * #### First Time Vistor Goals 
       1. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
           
-          i. The website loading time process was tested on lighthouse and other testing site and its perfomance shown to be above 90%. 
+          i. The website loading time process was tested on lighthouse and other testing sites and its perfomance shown to be above 90%. 
+        [Lighthouse performance Contact page 90%](https://user-images.githubusercontent.com/120597058/220215348-7cc8f5e0-ab0e-4722-b7cd-fad7f683d5e5.PNG)
+        [Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
+         [Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/220217122-8ba91013-d676-4289-963f-3f7e07837e3d.PNG)
 
           ii. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
          
@@ -188,8 +191,9 @@
       2. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
          
           i. At the bottom of each website page the user can find the opening times. 
-         
+         [footer opening times](https://user-images.githubusercontent.com/120597058/220221531-ecaa881c-0ceb-4ba8-a48e-916d7177a7e3.PNG)
          ii. The location is placed in the contact page
+        
 
          iii. The user can click on contact link on the navbar and it will direct them on the contact page. 
         
@@ -199,10 +203,14 @@
          i. On the navigation bar there is a contact page, the user can find a textarea located at the bottom of the page where the user can type any queries once.
 
          ii. There is a submit button underneath the textarea once the user has finished writing the message.  
-          
-      4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
+         
+          [Contact info](https://user-images.githubusercontent.com/120597058/220222491-cc6aee6c-9f54-4dde-8c92-d2eac0a97c58.PNG)
 
-        i. On the menu page products are clearly listed for the user to see and has images next to price description to it more cl  
+      4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
+         [Menu page images](https://user-images.githubusercontent.com/120597058/220223309-43e4150e-dadd-4de0-9ca2-6ec324295812.PNG)
+
+
+        i. On the menu page shows everything the restaurant serves which is clearly listed for the user to see and has images next to price description.  
      ---
     ## Credits
     
