@@ -17,11 +17,11 @@
     
 1. As a returning vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
 
-<<<<<<< HEAD
+
 1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.     
 =======
 1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.    
->>>>>>> 6063d6e (Inital commit)
+
 
 
 
