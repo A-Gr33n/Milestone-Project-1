@@ -19,7 +19,7 @@
 
 
 1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.     
-=======
+
 1. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget.    
 
 
