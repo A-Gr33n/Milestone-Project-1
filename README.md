@@ -4,7 +4,7 @@
 ### By Aaron Green
 
 ## Description
-<p>Supreme Feast is a website based on a newly built restaurant located in Sydenham, London which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts aand the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom. To navigate on any website page, the user can click on any of the links from the navigation bar on the top. <p>
+<p>Supreme Feast is a website based on a newly built restaurant located in Sydenham, London which allows the user to explore what the restaurant has to offer and what they will expect if they choose to visit the resturant. It has a home page where the user can know all about the restaurant, a menu page for the user to look at the foods, drinks and deserts and the resturant has a contact page for the user to put their details in to for reservation on how many will be attending. Opening hours and social links which can be found at the bottom. To navigate on any website page, the user can click on any of the links from the navigation bar on the top. <p>
   
   ----
  
@@ -117,7 +117,7 @@
      4. On the code and automation section on the left side of the screen select pages
      5. Under "Build and deployment", under "Source", select Deploy from a branch
      6. Under "Build and deployment" , under "Branch", click the dropdown called "None" and select "Main"   
-     7. Next to the main dropdown on the right click on dropdown "(root)" and select "(docs)"
+     7. Next to the "Main" dropdown on the right select "(root)" then save .  
 
     ### How to Clone this project 
    To clone this project from GitHub:
@@ -178,86 +178,124 @@
 
      ### Testing client stories from UX section of README.md 
      * #### First Time Vistor Goals 
-      1. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
+ 1. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
           
-          i. The website loading time process was tested on lighthouse and other testing sites and its perfomance shown to be above 90%. 
-        [Lighthouse performance Contact page 90%](https://user-images.githubusercontent.com/120597058/220215348-7cc8f5e0-ab0e-4722-b7cd-fad7f683d5e5.PNG)
-        [Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
-         [Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/220217122-8ba91013-d676-4289-963f-3f7e07837e3d.PNG)
+    * The website loading time process was tested on lighthouse and other testing sites and its perfomance shown to be above 90%.
+      [Lighthouse performance Contact page ](https://user-images.githubusercontent.com/120597058/220215348-7cc8f5e0-ab0e-4722-b7cd-fad7f683d5e5.PNG)
+       
+       [Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
+       
+       [Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/220217122-8ba91013-d676-4289-963f-3f7e07837e3d.PNG)
 
-          ii. No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
+    * No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
          
           
       
         
-      2. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
+2. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
          
-          i. At the bottom of each website page the user can find the opening times. 
-         [footer opening times](https://user-images.githubusercontent.com/120597058/220221531-ecaa881c-0ceb-4ba8-a48e-916d7177a7e3.PNG)
-         ii. The location is placed in the contact page
-        
-
-         iii. The user can click on contact link on the navbar and it will direct them on the contact page. 
-        
-        
-      3. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
-
-         i. On the navigation bar there is a contact page, the user can find a textarea located at the bottom of the page where the user can type any queries once.
-
-         ii. There is a submit button underneath the textarea once the user has finished writing the message.  
+    * At the bottom of each website page the user can find the opening times. 
+      [footer opening times](https://user-images.githubusercontent.com/120597058/220221531-ecaa881c-0ceb-4ba8-a48e-916d7177a7e3.PNG)
          
-          [Contact info](https://user-images.githubusercontent.com/120597058/220222491-cc6aee6c-9f54-4dde-8c92-d2eac0a97c58.PNG)
+   * The location is placed in the contact page
+        
 
-      4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
-         [Menu page images](https://user-images.githubusercontent.com/120597058/220223309-43e4150e-dadd-4de0-9ca2-6ec324295812.PNG)
+   *  The user can click on contact link on the navbar and it will direct them on the contact page. 
+        
+        
+3. As a Returning Vistor, I want to find the best way to get in contact the restaurant as there may be any questions I may have. 
 
+   
+    * On the navigation bar there is a contact page, the user can find a textarea located at the bottom of the page where the user can type any queries once.
 
-        i. On the menu page shows everything the restaurant serves which is clearly listed for the user to see and has images next to price description.  
-     ---
-    ## Credits
+   * There is a submit button underneath the textarea once the user has finished writing the message.  
+         
+       [Textarea section](https://user-images.githubusercontent.com/120597058/220222491-cc6aee6c-9f54-4dde-8c92-d2eac0a97c58.PNG)
+
+4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
+         
+      
+
+    * On the menu page shows everything the restaurant serves which is clearly listed for the user to see and has images next to price description.  
+     [Menu page images](https://user-images.githubusercontent.com/120597058/220223309-43e4150e-dadd-4de0-9ca2-6ec324295812.PNG)
+
+ 
+---
+ ## Bugs 
+ ### solved bugs:
+
+   #### Menu page header
+The menu header wasn't centered correctly when testing the websites responsiveness. In order to correct this matter the position of the header was adjusted in css.
+
+.menu-title{
+   <p> font-family: sans-serif;
+  <p> position: relative;
+   <p>left: 20px;
+  <p> font-size: 200%;
+ <p> text-transform: uppercase;
+ 
+}
+  #### Image conctact page
+  The image in contact page didn't show when testing responsiveness. This was because of where the image was positioned which was solved by using css.
+  
+  .img-fluid-contact{
+  <p> max-height:300px ; 
+  <p> width:500px;
+  <p> margin: auto;
+  <p> padding: 10px;
+  <p> position: relative;
+  <p> left: 5px;
+}
+  
+
+  
+
+---
+    
+ ## Credits
     
    ### Code
-      /* credit: code for making images all equal height for menu page taken from https://stackoverflow.com/questions/52871316/how-to-make-bootstraps-card-img-top-equal-height-at-responsive-widths*/and edited slightly to fit project needs 
+   /* credit: code for making images all equal height for menu page taken from https://stackoverflow.com/questions/52871316/how-to-make-bootstraps-card-img-top-equal-height-at-responsive-widths*/and edited slightly to fit project needs 
     
-     .card-img-top {
+   .card-img-top {
       <p> width: 100%; </p>
       <p> height: 15vw; </p>
       object-fit: cover;
       }
     
-     /*credit:code for making image from contact page positioned to center of page taken from https://www.w3schools.com/css/css_positioning.asp/ */ 
- <p>.img-fluid-contact{
- <p> max-height:300px ; 
- <p>  width:500px;
- <p> margin: auto;
- <p> padding: 10px;
- <p> position: relative;
- <p> left: 5px;
-}
+   /*credit:code for making image from contact page positioned to center of page taken from https://www.w3schools.com/css/css_positioning.asp/ */ 
+   <p>.img-fluid-contact{
+   <p> max-height:300px ; 
+   <p>  width:500px;
+   <p> margin: auto;
+   <p> padding: 10px;
+   <p> position: relative;
+   <p> left: 5px;
+    }
      
 
    Bootstrap v5.3.0:
     
-    * Bootstrap v5.3.0-alpha1 was mostly used to create the html structure for this website. It was needed to make the site responsive using the Bootstrap Grid System. The Bootstrap card codes was used to put images and text to group them row by row. 
+   * Bootstrap v5.3.0-alpha1 was mostly used to create the html structure for this website. It was needed to make the site responsive using the Bootstrap Grid System. The Bootstrap card codes was used to put images and text to group them row by row. 
 
-    Google Fonts :
-    * Google Fonts provided the text that was needed to build the website.
+   Google Fonts :
+   * Google Fonts provided the text that was needed to build the website.
     
-    W3Schools
-    * W3Schools was used for a fundemental support to carry out this project. 
+   W3Schools:
+   * W3Schools was used for a fundemental support to carry out this project. 
 
 
-    ### Media
-   Images:
-    1. Home Page :   
+ ### Media
+Images:
+1. Home Page :   
      
-       All images from the home page are provided by https://www.images.pexels.com/ these images give a feel of what the resturant would be like for the user if they were to visit. 
+    All images from the home page are provided by https://www.images.pexels.com/ these images give a feel of what the resturant would be like for the user if they were to visit. 
 
-    1. Menu Page : 
+ 1. Menu Page : 
     
        Images from menu page were referenced from https://www.images.pexels.com/ and https://c.pxhere.com/. Each image shows the user the menu order and what they can order when they are visiting.
 
-    1. Contact Page:
+ 1. Contact Page:
 
        On the contact page there is only one image which is sourced from https://www.images.pexels.com/ which shows a waiter holding two dinner plates. This gives the user the type of customer service the business provides when they book a table.   
 
