@@ -188,7 +188,8 @@
        
      ![Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
        
-     ![Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/222221519-ae09c20b-3d04-42af-a0bc-b4320891e567.PNG)
+     ![Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/222223239-6b1ea2be-5bbf-4262-9972-bf2bd8f0aa72.PNG)
+
 
 
     * No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
@@ -221,7 +222,8 @@
       
 
     * On the menu page shows everything the restaurant serves which is clearly listed for the user to see and has images next to price description.  
-     ![Menu page images](https://user-images.githubusercontent.com/120597058/220223309-43e4150e-dadd-4de0-9ca2-6ec324295812.PNG)
+   
+     ![Menu screenshot](https://user-images.githubusercontent.com/120597058/222223084-7711aeeb-7c35-4d0d-add9-dbd94ad6a65d.PNG)
 
  
 ---
