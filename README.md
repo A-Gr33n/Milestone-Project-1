@@ -186,7 +186,8 @@
     * The website loading time process was tested on lighthouse and other testing sites and its perfomance shown to be above 90%.
      ![Lighthouse performance Contact page ](https://user-images.githubusercontent.com/120597058/220215348-7cc8f5e0-ab0e-4722-b7cd-fad7f683d5e5.PNG)
        
-     ![Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
+     ![Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/222225964-91f0277c-2bb7-4523-bc82-4f7d30ddac99.PNG)
+
        
      ![Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/222223239-6b1ea2be-5bbf-4262-9972-bf2bd8f0aa72.PNG)
 
