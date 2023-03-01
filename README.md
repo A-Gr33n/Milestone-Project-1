@@ -1,6 +1,9 @@
 
 # Supreme Feast!
 
+![Website Responsive ](https://user-images.githubusercontent.com/120597058/222212391-e345c10d-8ec0-4b85-8dd1-ff7b3d132164.PNG)
+
+
 ### By Aaron Green
 
 ## Description
@@ -53,19 +56,19 @@
        * The user will get to feel what it would be like experincing the resturant and what the atomsphere would be like by visualing the images of the website    
     ----
   ## Wireframes
-    * Home Page Wireframe [Restaurant Project Milestone 1 (Home Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734473/Restaurant.Project.Milestone.1.Home.Page.pdf)
+    * Home Page Wireframe ![Restaurant Project Milestone 1 (Home Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734473/Restaurant.Project.Milestone.1.Home.Page.pdf)
 
     
-    * Menu Page Wireframe [Restaurant Project Milestone 1 (Menu Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734478/Restaurant.Project.Milestone.1.Menu.Page.pdf)
+    * Menu Page Wireframe ![Restaurant Project Milestone 1 (Menu Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734478/Restaurant.Project.Milestone.1.Menu.Page.pdf)
 
 
-    * Contact Us Page Wireframe [Restaurant Project Milestone 1 (Contact Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734433/Restaurant.Project.Milestone.1.Contact.Page.pdf)
+    * Contact Us Page Wireframe ![Restaurant Project Milestone 1 (Contact Page).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734433/Restaurant.Project.Milestone.1.Contact.Page.pdf)
 
 
-    * Moblie Wifeframe [Restaurant Project Milestone 1 (Mobile Wireframe).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734481/Restaurant.Project.Milestone.1.Mobile.Wireframe.pdf)
+    * Moblie Wifeframe ![Restaurant Project Milestone 1 (Mobile Wireframe).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734481/Restaurant.Project.Milestone.1.Mobile.Wireframe.pdf)
 
 
-    * Tablet Wireframe[Restaurant Project Milestone 1 (Tablet Wireframe).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734485/Restaurant.Project.Milestone.1.Tablet.Wireframe.pdf)
+    * Tablet Wireframe ![Restaurant Project Milestone 1 (Tablet Wireframe).pdf](https://github.com/A-Gr33n/Milestone-Project-1/files/10734485/Restaurant.Project.Milestone.1.Tablet.Wireframe.pdf)
 
      ----
     ## Features 
@@ -136,13 +139,13 @@
      ### W3C Markup Validor and W3C CSS Validator
    The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no sytax errors. Screenshots are presented below for evidence to show solved errors. 
        
-  [view (Home page)](https://user-images.githubusercontent.com/120597058/220194957-aa918731-5631-4b8a-97cd-129bb876cff0.PNG)
+ ![view (Home page)](https://user-images.githubusercontent.com/120597058/220194957-aa918731-5631-4b8a-97cd-129bb876cff0.PNG)
 
-  [view (menu page)](https://user-images.githubusercontent.com/120597058/220192758-514e66e9-3179-49a9-98e9-dd4f80254c4c.PNG)
+ ![view (menu page)](https://user-images.githubusercontent.com/120597058/220192758-514e66e9-3179-49a9-98e9-dd4f80254c4c.PNG)
      
-  [view (contact page)](https://user-images.githubusercontent.com/120597058/220195696-50071427-9bd0-4029-afdc-2c9adb1f2d03.PNG)
+ ![view (contact page)](https://user-images.githubusercontent.com/120597058/220195696-50071427-9bd0-4029-afdc-2c9adb1f2d03.PNG)
 
-  [view (CSS validator)](https://user-images.githubusercontent.com/120597058/220194541-d97df75b-4e62-4d4c-a0e6-0bd300e11e9f.PNG)
+ ![view (CSS validator)](https://user-images.githubusercontent.com/120597058/220194541-d97df75b-4e62-4d4c-a0e6-0bd300e11e9f.PNG)
 
      
 
@@ -181,11 +184,11 @@
  1. As a First Time Vistor to the website, I want to be able to access the website without any extensive time and to easily find and browse the navigation menu on any device.  
           
     * The website loading time process was tested on lighthouse and other testing sites and its perfomance shown to be above 90%.
-      [Lighthouse performance Contact page ](https://user-images.githubusercontent.com/120597058/220215348-7cc8f5e0-ab0e-4722-b7cd-fad7f683d5e5.PNG)
+     ![Lighthouse performance Contact page ](https://user-images.githubusercontent.com/120597058/220215348-7cc8f5e0-ab0e-4722-b7cd-fad7f683d5e5.PNG)
        
-       [Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
+     ![Lighthouse performance Home page](https://user-images.githubusercontent.com/120597058/220215432-c85cd0b5-9acd-4fa9-9c73-b142e098db9e.PNG)
        
-       [Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/220217122-8ba91013-d676-4289-963f-3f7e07837e3d.PNG)
+     ![Lighthouse performance Menu page](https://user-images.githubusercontent.com/120597058/220217122-8ba91013-d676-4289-963f-3f7e07837e3d.PNG)
 
     * No matter what page the new visitor lands on, they can easily find and use the navigation bar on any device as the site is responsive.   
          
@@ -195,7 +198,7 @@
 2. As a First Time Visitor I want to find information about the restaurant, such as its hours of operation, location and contact information.
          
     * At the bottom of each website page the user can find the opening times. 
-      [footer opening times](https://user-images.githubusercontent.com/120597058/220221531-ecaa881c-0ceb-4ba8-a48e-916d7177a7e3.PNG)
+     ![footer opening times](https://user-images.githubusercontent.com/120597058/220221531-ecaa881c-0ceb-4ba8-a48e-916d7177a7e3.PNG)
          
    * The location is placed in the contact page
         
@@ -210,14 +213,14 @@
 
    * There is a submit button underneath the textarea once the user has finished writing the message.  
          
-       [Textarea section](https://user-images.githubusercontent.com/120597058/220222491-cc6aee6c-9f54-4dde-8c92-d2eac0a97c58.PNG)
+       ![Textarea section](https://user-images.githubusercontent.com/120597058/220222491-cc6aee6c-9f54-4dde-8c92-d2eac0a97c58.PNG)
 
 4. As a potential client, I want a clear list of prices in menu so I can decide if it is within my budget. 
          
       
 
     * On the menu page shows everything the restaurant serves which is clearly listed for the user to see and has images next to price description.  
-     [Menu page images](https://user-images.githubusercontent.com/120597058/220223309-43e4150e-dadd-4de0-9ca2-6ec324295812.PNG)
+     ![Menu page images](https://user-images.githubusercontent.com/120597058/220223309-43e4150e-dadd-4de0-9ca2-6ec324295812.PNG)
 
  
 ---
